@@ -1,6 +1,6 @@
 # Submission guidelines
 
-{% include "2026/glossary-definitions.md" %}
+{% include "2027/glossary-definitions.md" %}
 
 ## Submission process
 
@@ -37,70 +37,70 @@ The text, tables and figures of a CCN Extended Abstract submission can be no lon
 
 #### Abstract
 
-{% include "2026/submissions/abstract-guidance.md" %}
+{% include "2027/submissions/abstract-guidance.md" %}
 
 #### Templates
 
-{% include "2026/submissions/required-template-warning.md" %}
+{% include "2027/submissions/required-template-warning.md" %}
 
 Your initial submission must use the anonymized variant of your chosen template.
 
-{% include "2026/submissions/templates-ea.md" %}
+{% include "2027/submissions/templates-ea.md" %}
 
-{% include "2026/submissions/template-issues.md" %}
+{% include "2027/submissions/template-issues.md" %}
 
 ### Double-blind review
 
-{% include "2026/policies/double-blind-anonymization.md" %}
+{% include "2027/policies/double-blind-anonymization.md" %}
 
-{% include "2026/policies/code-anonymization.md" %}
+{% include "2027/policies/code-anonymization.md" %}
 
 ### Reciprocal reviewer policy
 
-{% include "2026/reviewers/pool-size.md" %}
+{% include "2027/reviewers/pool-size.md" %}
 
 Authors in this category that fail to finish reviews by the author response stage will
 not be considered for a Contributed Talk.
 
-{% include "2026/reviewers/exemption.md" %}
+{% include "2027/reviewers/exemption.md" %}
 
 ### Use of large language models
 
-{% include "2026/policies/llm-usage.md" %}
+{% include "2027/policies/llm-usage.md" %}
 
 ### No changes to authorship
 
-{% include "2026/submissions/author-list-locked-ea.md" %}
+{% include "2027/submissions/author-list-locked-ea.md" %}
 
 ### Presenter policy
 
-{% include "2026/policies/presenter-policy.md" %}
+{% include "2027/policies/presenter-policy.md" %}
 
 ### Dual submission policy
 
-{% include "2026/policies/dual-submission.md" %}
+{% include "2027/policies/dual-submission.md" %}
 
 ## Frequently asked questions
 
-{% include "2026/faq/presenter-change-poster.md" %}
+{% include "2027/faq/presenter-change-poster.md" %}
 
-{% include "2026/faq/presenter-change-talk.md" %}
+{% include "2027/faq/presenter-change-talk.md" %}
 
-{% include "2026/faq/timezone.md" %}
+{% include "2027/faq/timezone.md" %}
 
-{% include "2026/faq/anonymized-author-block.md" %}
+{% include "2027/faq/anonymized-author-block.md" %}
 
-{% include "2026/faq/shared-authorship.md" %}
+{% include "2027/faq/shared-authorship.md" %}
 
-{% include "2026/faq/keywords.md" %}
+{% include "2027/faq/keywords.md" %}
 
-{% include "2026/faq/acknowledgments.md" %}
+{% include "2027/faq/acknowledgments.md" %}
 
-{% include "2026/faq/code-linking.md" %}
+{% include "2027/faq/code-linking.md" %}
 
-{% include "2026/faq/equation-formatting.md" %}
+{% include "2027/faq/equation-formatting.md" %}
 
-{% include "2026/faq/preprints.md" %}
+{% include "2027/faq/preprints.md" %}
 
 ### I and my co-authors can no longer attend CCN 2026. How can I withdraw my poster?
 
@@ -113,7 +113,7 @@ Reciprocal Reviewer(s) identified on the submission, and the Presenter identifie
 submission. Other co-authors do not need an OpenReview account; you can simply input
 their name and email.
 
-{% include "2026/openreview/signup-instructions.md" %}
+{% include "2027/openreview/signup-instructions.md" %}
 
 ### Can I include supplementary material?
 
@@ -145,7 +145,7 @@ CCN 2026 maintains the historical policy that a given presenter can present only
 single contribution at CCN. As such, you can make only one submission as the "Presenter"
 (the presenting author as identified on OpenReview) to the Extended Abstracts track.
 We will desk-reject submissions in violation of this requirement between
-{{ ea_desk_rejection_period_2026 }}. You can participate in any number of submissions
+{{ ea_desk_rejection_period_2027 }}. You can participate in any number of submissions
 for which you are an author but not the Presenter.
 
 ### Can I make an Extended Abstract submission if I have already made a Proceedings submission?
@@ -155,14 +155,14 @@ both contributions are accepted.
 
 ### Will my extended abstract be copyrighted?
 
-{% include "2026/creative-commons-license.md" %}
+{% include "2027/creative-commons-license.md" %}
 
 ### I was told that my submission has formatting issues and won't be reviewed. Can I revise them and still enter review for a Contributed Talk?
 
 Unfortunately we have already started the technical process of starting the review
 process so won't be able to wait for revisions.
-Please wait until the camera-ready phase (**{{ ea_camera_ready_period_2026 }}**) to
+Please wait until the camera-ready phase (**{{ ea_camera_ready_period_2027 }}**) to
 submit your corrected manuscript for publication.
 Further instructions for how to do this will follow.
 
-{% include "2026/contact-info.md" %}
+{% include "2027/contact-info.md" %}

@@ -1,10 +1,10 @@
 # Senior Area Chair Guidelines
 
-{% include "2026/glossary-definitions.md" %}
+{% include "2027/glossary-definitions.md" %}
 
 Thank you for serving as a Senior Area Chair (SAC) for the second CCN Proceedings track!
 
-{% include "2026/thanks-proceedings.md" %}
+{% include "2027/thanks-proceedings.md" %}
 
 ## Role
 
@@ -15,15 +15,15 @@ calibrate decisions across different ACs, and liaise with the TPC for final deci
 
 ## OpenReview Console
 
-{% include "2026/openreview/console.md" %}
+{% include "2027/openreview/console.md" %}
 
-{% include "2026/openreview/button-sac.md" %}
+{% include "2027/openreview/button-sac.md" %}
 
-{% include "2026/openreview/working-in-openreview.md" %}
+{% include "2027/openreview/working-in-openreview.md" %}
 
 ### Setting comment visibility
 
-{% include "2026/openreview/comment-visibility.md" %}
+{% include "2027/openreview/comment-visibility.md" %}
 
 ![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
@@ -37,18 +37,18 @@ the relevant submission, and press "Message".
 
 | Period | SAC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Enrollment |  | {{ proceedings_enrollment_period_2026 }} |
-| Assignment |  | {{ proceedings_assignment_period_2026 }} |
-| Adjustment |  | {{ proceedings_adjustment_period_2026 }} |
-| Review |  | {{ proceedings_review_period_2026 }} |
-| Response |  | {{ proceedings_author_response_period_2026 }} |
-| Discussion |  | {{ proceedings_discussion_period_2026 }} |
-| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">SACs provide feedback to ACs writing meta-reviews.</span> | <span class="deadline">{{ proceedings_meta_review_period_2026 }}</span> |
-| <span class="deadline">[Decision](#decision)</span> | <span class="deadline">SACs finalize decisions with TPC.</span> | <span class="deadline">{{ proceedings_final_decisions_period_2026 }}</span> |
+| Enrollment |  | {{ proceedings_enrollment_period_2027 }} |
+| Assignment |  | {{ proceedings_assignment_period_2027 }} |
+| Adjustment |  | {{ proceedings_adjustment_period_2027 }} |
+| Review |  | {{ proceedings_review_period_2027 }} |
+| Response |  | {{ proceedings_author_response_period_2027 }} |
+| Discussion |  | {{ proceedings_discussion_period_2027 }} |
+| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">SACs provide feedback to ACs writing meta-reviews.</span> | <span class="deadline">{{ proceedings_meta_review_period_2027 }}</span> |
+| <span class="deadline">[Decision](#decision)</span> | <span class="deadline">SACs finalize decisions with TPC.</span> | <span class="deadline">{{ proceedings_final_decisions_period_2027 }}</span> |
 
 ### Meta-Review
 
-{{ proceedings_meta_review_period_2026 }}
+{{ proceedings_meta_review_period_2027 }}
 
 This is the most important phase of your involvement.
 As a SAC, you see more papers than any individual AC, which means you are uniquely
@@ -71,7 +71,7 @@ you see a broader set of papers than any individual AC.
 
 ### Decision
 
-{{ proceedings_final_decisions_period_2026 }}
+{{ proceedings_final_decisions_period_2027 }}
 
 Review the decisions recommended by your ACs and work with [the TPC](#contact-info) to
 finalize them. The TPC may optionally schedule a meeting with SACs to calibrate final
@@ -79,31 +79,31 @@ decisions. We would appreciate your input on borderline papers and cases where t
 recommendation diverges from the reviewers'.
 Ensure meta-reviews are updated to accurately reflect the final decision.
 
-Decisions will be released to authors on {{ proceedings_decisions_2026 }}.
+Decisions will be released to authors on {{ proceedings_decisions_2027 }}.
 
 ## Policies
 
 ### Availability
 
-{% include "2026/policies/availability.md" %}
+{% include "2027/policies/availability.md" %}
 
 ### Kindness
 
-{% include "2026/policies/kindness.md" %}
+{% include "2027/policies/kindness.md" %}
 
 ### Conflicts of interest
 
-{% include "2026/policies/conflict-of-interest.md" %}
+{% include "2027/policies/conflict-of-interest.md" %}
 
 If you notice a conflict of interest with a submission that is assigned to one of your
 ACs, [contact the TPC](#contact-info) right away.
 
-{% include "2026/reviewers/common-policies.md" %}
+{% include "2027/reviewers/common-policies.md" %}
 
-{% include "2026/policies/confidentiality-sac-addendum.md" %}
+{% include "2027/policies/confidentiality-sac-addendum.md" %}
 
 ### Flexibility
 
-{% include "2026/policies/flexibility.md" %}
+{% include "2027/policies/flexibility.md" %}
 
-{% include "2026/contact-info.md" %}
+{% include "2027/contact-info.md" %}

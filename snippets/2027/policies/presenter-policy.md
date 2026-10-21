@@ -8,6 +8,6 @@ Since CCN now has two tracks with differing timelines, a Presenter may submit to
 tracks, but may not submit multiple contributions within the same track. If both
 contributions are accepted[^cross-track], the Presenter must select one for presentation
 and withdraw the other. This selection must be made between
-{{ presenter_selection_period_2026 }}, after decisions are announced for all tracks.
+{{ presenter_selection_period_2027 }}, after decisions are announced for all tracks.
 
 [^cross-track]: This can occur if a Presenter has both a Proceedings paper and an Extended Abstract accepted, or if a Presenter's Proceedings paper is invited to the Extended Abstracts track after they have already submitted directly to that track. In these cases, the Presenter can choose which contribution to present, or identify an alternative Presenter for one of the works.

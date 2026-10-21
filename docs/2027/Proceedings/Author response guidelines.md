@@ -1,6 +1,6 @@
 # Author Response Guidelines
 
-{% include "2026/glossary-definitions.md" %}
+{% include "2027/glossary-definitions.md" %}
 
 Thank you for submitting your work to the CCN Proceedings track.
 In this document, we outline the Proceedings review and decision processes that are
@@ -8,21 +8,21 @@ relevant to authors of submissions.
 
 ## OpenReview Console
 
-{% include "2026/openreview/console.md" %}
+{% include "2027/openreview/console.md" %}
 
-{% include "2026/openreview/button-author.md" %}
+{% include "2027/openreview/button-author.md" %}
 
-{% include "2026/openreview/working-in-openreview.md" %}
+{% include "2027/openreview/working-in-openreview.md" %}
 
 ## Timeline
 
 | Period | Author responsibilities | Dates |
 | :--- | :--- | :--- |
-| Review |  | {{ proceedings_review_period_2026 }} |
-| <span class="deadline">[Response](#response)</span> | <span class="deadline">Authors write rebuttals and optionally revise PDF.</span> | <span class="deadline">{{ proceedings_author_response_period_2026 }}</span> |
-| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Authors engage with reviewers.</span> | <span class="deadline">{{ proceedings_discussion_period_2026 }}</span> |
-| Meta-Review |  | {{ proceedings_meta_review_period_2026 }} |
-| Decision[^decisions] |  | {{ proceedings_final_decisions_period_2026 }} |
+| Review |  | {{ proceedings_review_period_2027 }} |
+| <span class="deadline">[Response](#response)</span> | <span class="deadline">Authors write rebuttals and optionally revise PDF.</span> | <span class="deadline">{{ proceedings_author_response_period_2027 }}</span> |
+| <span class="deadline">[Discussion](#discussion)</span> | <span class="deadline">Authors engage with reviewers.</span> | <span class="deadline">{{ proceedings_discussion_period_2027 }}</span> |
+| Meta-Review |  | {{ proceedings_meta_review_period_2027 }} |
+| Decision[^decisions] |  | {{ proceedings_final_decisions_period_2027 }} |
 
 [^decisions]: Proceedings decisions are related to but not exactly the same as
     presentation format (poster) decisions at CCN 2026: **accepted** Proceedings papers
@@ -35,15 +35,15 @@ relevant to authors of submissions.
 
 ### Response
 
-{{ proceedings_author_response_period_2026 }}
+{{ proceedings_author_response_period_2027 }}
 
 #### Reviews
 
-Reviewers are instructed to submit reviews by {{ proceedings_reviews_due_2026 }}, AoE.
+Reviewers are instructed to submit reviews by {{ proceedings_reviews_due_2027 }}, AoE.
 This is followed by an emergency period of several days in which missing reviews are
 completed by emergency reviewers so that each Proceedings submission receives at least 3
 quality reviews. Reviews are released to authors on
-**{{ proceedings_reviews_released_2026 }}**.
+**{{ proceedings_reviews_released_2027 }}**.
 
 #### Review content
 
@@ -51,7 +51,7 @@ Reviewers were asked to evaluate submissions according to their **interest**,
 **soundness**, **clarity**, and **confidence of expertise**, and to provide comments on
 their evaluations.
 
-{% include "2026/reviewers/review-form.md" %}
+{% include "2027/reviewers/review-form.md" %}
 
 #### Text responses
 
@@ -63,7 +63,7 @@ each review.
 ![OpenReview screenshot: Add Rebuttal](../../2025/assets/author-response-1.png)
 
 The deadline for submitting the text component of your author response is
-**{{ proceedings_author_response_due_2026 }}**. You must submit a text response before
+**{{ proceedings_author_response_due_2027 }}**. You must submit a text response before
 this date to participate in any follow-up discussion during the author-reviewer
 [discussion period](#discussion) that immediately follows.
 
@@ -87,7 +87,7 @@ selecting "**Author Response Revision**". Note, however, that you should not add
 results, unless directly requested by a reviewer (e.g., minor additional statistical
 analyses). Revisions can be uploaded as soon as reviews are released.
 The deadline for revising the submission PDF is the same as the text responses,
-**{{ proceedings_author_response_due_2026 }}**.
+**{{ proceedings_author_response_due_2027 }}**.
 
 ![OpenReview screenshot: Edit Submission](../../2025/assets/author-response-2.png)
 
@@ -101,7 +101,7 @@ your text response).
 
 ### Discussion
 
-{{ proceedings_discussion_period_2026 }}
+{{ proceedings_discussion_period_2027 }}
 
 After submitting your author response, which may include a revision of the PDF and a
 text response to each review, reviewers may post a "Reviewer Reply" to follow up on any
@@ -111,14 +111,14 @@ If a reviewer replies to your rebuttal, you will receive an email notification a
 You can submit one Author Reply per Reviewer Reply of up to 2500 characters.
 
 Please note that rebuttals are not editable after the author response period closes on
-**{{ proceedings_author_response_due_2026 }}**. However, you may use your Author Reply
+**{{ proceedings_author_response_due_2027 }}**. However, you may use your Author Reply
 to address any follow-up points raised by reviewers.
 
 Please note that all discussion notes for a submission are visible to its Senior Area
 Chairs, Area Chairs, Reviewers, and Authors.
 The TPC ("Program Chairs" on OpenReview) can view everything on the OpenReview console.
 
-The discussion period closes on **{{ proceedings_discussion_due_2026 }}**, Anywhere on
+The discussion period closes on **{{ proceedings_discussion_due_2027 }}**, Anywhere on
 Earth. No new replies from either Reviewers or Authors can be submitted after this time.
 
 ## Decisions
@@ -128,10 +128,10 @@ Earth. No new replies from either Reviewers or Authors can be submitted after th
 Based on the reviews and the author rebuttals, ACs and SACs will write meta-reviews and
 recommend Proceedings paper rejection or acceptance, which will receive final review
 from the TPC and the PC. Decisions and meta-reviews will be released on
-**{{ proceedings_decisions_2026 }}**.
+**{{ proceedings_decisions_2027 }}**.
 
 Furthermore, a small subset of accepted papers will be invited to present a Contributed
-Talk, which will be announced on **{{ talk_selections_2026 }}**.
+Talk, which will be announced on **{{ talk_selections_2027 }}**.
 
 ### Invitations to Extended Abstracts
 
@@ -150,9 +150,9 @@ only.
 
 ### Conduct
 
-{% include "2026/policies/conduct.md" %}
+{% include "2027/policies/conduct.md" %}
 
 Unprofessional or unethical behavior during the review and discussion process should be
 flagged to the AC via a private comment.
 
-{% include "2026/contact-info.md" %}
+{% include "2027/contact-info.md" %}

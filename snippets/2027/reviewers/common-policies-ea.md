@@ -1,14 +1,14 @@
 ### Confidentiality
 
-{% include "2026/policies/confidentiality.md" %}
+{% include "2027/policies/confidentiality.md" %}
 
 ### Use of artificial intelligence
 
-{% include "2026/policies/AI-usage-reviewers.md" %}
+{% include "2027/policies/AI-usage-reviewers.md" %}
 
 ### Conduct
 
-{% include "2026/policies/conduct.md" %}
+{% include "2027/policies/conduct.md" %}
 
 ### Transparency
 

@@ -1,6 +1,6 @@
 # Reviewer Guidelines
 
-{% include "2026/glossary-definitions.md" %}
+{% include "2027/glossary-definitions.md" %}
 
 Thank you once again for agreeing to review for CCN!
 
@@ -19,15 +19,15 @@ OpenReview.
 
 ## OpenReview Console
 
-{% include "2026/openreview/console.md" %}
+{% include "2027/openreview/console.md" %}
 
-{% include "2026/openreview/button-reviewer-ea.md" %}
+{% include "2027/openreview/button-reviewer-ea.md" %}
 
-{% include "2026/openreview/working-in-openreview.md" %}
+{% include "2027/openreview/working-in-openreview.md" %}
 
 ### Setting comment visibility
 
-{% include "2026/openreview/comment-visibility.md" %}
+{% include "2027/openreview/comment-visibility.md" %}
 
 ![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
@@ -35,21 +35,21 @@ OpenReview.
 
 | Period | Reviewer responsibilities | Dates |
 | :--- | :--- | :--- |
-| <span class="deadline">[Review](#review)</span> | <span class="deadline">Reviewers submit reviews for assigned papers.</span> | <span class="deadline">{{ ea_review_period_2026 }}</span> |
+| <span class="deadline">[Review](#review)</span> | <span class="deadline">Reviewers submit reviews for assigned papers.</span> | <span class="deadline">{{ ea_review_period_2027 }}</span> |
 
 ### Review
 
-{{ ea_review_period_2026 }}
+{{ ea_review_period_2027 }}
 
 #### Assignment
 
-{% include "2026/reviewers/assignment-intro-ea.md" %}
+{% include "2027/reviewers/assignment-intro-ea.md" %}
 
-{% include "2026/openreview/email-profile-reminder.md" %}
+{% include "2027/openreview/email-profile-reminder.md" %}
 
 #### Review deadline
 
-**{{ ea_reviews_due_2026 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing
+**{{ ea_reviews_due_2027 }}, 11:59 PM Anywhere on Earth (AoE)**, is the reviewing
 deadline. We are counting on you to submit your review(s) on or before this date so that
 we can move onto the next step of the process.
 
@@ -66,31 +66,31 @@ Reviewers are asked to evaluate submissions according to their **interest**,
 **soundness**, **clarity**, and **confidence of expertise**, and to provide comments on
 their evaluations.
 
-{% include "2026/reviewers/review-form.md" %}
+{% include "2027/reviewers/review-form.md" %}
 
 #### Things to flag
 
 If you note any of the following in your submissions, please
 [flag them with the TPC](#contact-info).
 
-{% include "2026/reviewers/things-to-flag-ea.md" %}
+{% include "2027/reviewers/things-to-flag-ea.md" %}
 
 ## Policies
 
-{% include "2026/reviewers/common-policies-ea.md" %}
+{% include "2027/reviewers/common-policies-ea.md" %}
 
 ### Anonymization
 
-{% include "2026/policies/blinding.md" %}
+{% include "2027/policies/blinding.md" %}
 
 Only the TPC knows your identity as a reviewer.
 
 ### Interdisciplinarity
 
-{% include "2026/policies/interdisciplinarity.md" %}
+{% include "2027/policies/interdisciplinarity.md" %}
 
 ### Flexibility
 
-{% include "2026/policies/flexibility.md" %}
+{% include "2027/policies/flexibility.md" %}
 
-{% include "2026/contact-info.md" %}
+{% include "2027/contact-info.md" %}

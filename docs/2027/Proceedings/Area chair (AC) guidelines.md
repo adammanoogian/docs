@@ -1,10 +1,10 @@
 # Area Chair Guidelines
 
-{% include "2026/glossary-definitions.md" %}
+{% include "2027/glossary-definitions.md" %}
 
 Thank you for serving as an Area Chair (AC) for the second CCN Proceedings track!
 
-{% include "2026/thanks-proceedings.md" %}
+{% include "2027/thanks-proceedings.md" %}
 
 ## Role
 
@@ -16,15 +16,15 @@ guidance from your senior area chair (SAC).
 
 ## OpenReview Console
 
-{% include "2026/openreview/console.md" %}
+{% include "2027/openreview/console.md" %}
 
-{% include "2026/openreview/button-ac.md" %}
+{% include "2027/openreview/button-ac.md" %}
 
-{% include "2026/openreview/working-in-openreview.md" %}
+{% include "2027/openreview/working-in-openreview.md" %}
 
 ### Setting comment visibility
 
-{% include "2026/openreview/comment-visibility.md" %}
+{% include "2027/openreview/comment-visibility.md" %}
 
 ![OpenReview screenshot](../../2025/assets/reviewer-interface.png)
 
@@ -32,19 +32,19 @@ guidance from your senior area chair (SAC).
 
 | Period | AC responsibilities | Dates |
 | :--- | :--- | :--- |
-| Enrollment |  | {{ proceedings_enrollment_period_2026 }} |
-| Assignment |  | {{ proceedings_assignment_period_2026 }} |
-| [Adjustment](#adjustment) | ACs check assignments. | {{ proceedings_adjustment_period_2026 }} |
-| [Review](#review) | ACs facilitate reviewers writing reviews. | {{ proceedings_review_period_2026 }} |
-| <span class="deadline">[Emergency Review](#emergency-review)</span> | <span class="deadline">ACs ensure all papers have 3+ reviews.</span> | <span class="deadline">{{ proceedings_emergency_review_period_2026 }}</span> |
-| Response |  | {{ proceedings_author_response_period_2026 }} |
-| [Discussion](#discussion) | ACs moderate discussion between authors and reviewers. | {{ proceedings_discussion_period_2026 }} |
-| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">ACs write meta-reviews.</span> | <span class="deadline">{{ proceedings_meta_review_period_2026 }}</span> |
-| Decision |  | {{ proceedings_final_decisions_period_2026 }} |
+| Enrollment |  | {{ proceedings_enrollment_period_2027 }} |
+| Assignment |  | {{ proceedings_assignment_period_2027 }} |
+| [Adjustment](#adjustment) | ACs check assignments. | {{ proceedings_adjustment_period_2027 }} |
+| [Review](#review) | ACs facilitate reviewers writing reviews. | {{ proceedings_review_period_2027 }} |
+| <span class="deadline">[Emergency Review](#emergency-review)</span> | <span class="deadline">ACs ensure all papers have 3+ reviews.</span> | <span class="deadline">{{ proceedings_emergency_review_period_2027 }}</span> |
+| Response |  | {{ proceedings_author_response_period_2027 }} |
+| [Discussion](#discussion) | ACs moderate discussion between authors and reviewers. | {{ proceedings_discussion_period_2027 }} |
+| <span class="deadline">[Meta-Review](#meta-review)</span> | <span class="deadline">ACs write meta-reviews.</span> | <span class="deadline">{{ proceedings_meta_review_period_2027 }}</span> |
+| Decision |  | {{ proceedings_final_decisions_period_2027 }} |
 
 ### Adjustment
 
-{{ proceedings_adjustment_period_2026 }}
+{{ proceedings_adjustment_period_2027 }}
 
 We have done our best to match ACs with the most appropriate submissions.
 However, if you find that a manuscript assigned to you is too far outside of your **area
@@ -54,7 +54,7 @@ posting a comment on the OpenReview forum for the submission with the readers se
 your **Senior Area Chair** and **the TPC** (see
 [Setting comment visibility](#setting-comment-visibility)).
 
-{% include "2026/openreview/email-profile-reminder.md" %}
+{% include "2027/openreview/email-profile-reminder.md" %}
 
 During this period, also make sure that every submission in your batch is matched with
 suitable reviewers whom you can trust on this submission, ideally with a diverse set of
@@ -62,7 +62,7 @@ opinions.
 
 ### Review
 
-{{ proceedings_review_period_2026 }}
+{{ proceedings_review_period_2027 }}
 
 As an area chair, you will oversee the review process for the submissions assigned to
 you. Keep the process on schedule by following up with reviewers, assisting those who
@@ -70,7 +70,7 @@ feel poorly matched, and finding replacements if necessary.
 
 The reviewer pool is made up of **Reciprocal Reviewers** who are reviewing as part of a
 Proceedings submission, and **Invited Reviewers** who are volunteering their time.
-Reviews for both pools are due **{{ proceedings_reviews_due_2026 }}**. Read all reviews
+Reviews for both pools are due **{{ proceedings_reviews_due_2027 }}**. Read all reviews
 carefully. If a review is substandard, ask the reviewer to improve it with polite,
 concrete guidance. CCN expects the highest quality in its reviews, similar to a journal
 review, and reviewers are given a small load (on average, 2-3 papers) to make this
@@ -78,18 +78,18 @@ possible. Please encourage this standard.
 
 #### Things to flag
 
-{% include "2026/reviewers/things-to-flag-proceedings.md" %}
+{% include "2027/reviewers/things-to-flag-proceedings.md" %}
 
 ### Emergency Review
 
-{{ proceedings_emergency_review_period_2026 }}
+{{ proceedings_emergency_review_period_2027 }}
 
 During this period, ACs ensure that emergency reviewers and/or regular reviewers
 complete any tardy reviews so that each paper has at least 3 high-quality reviews before
 the start of the author response period.
 
 Reciprocal Reviewers who do not complete their reviews by the reviews due date
-({{ proceedings_reviews_due_2026 }}) will receive a warning from the TPC and be given
+({{ proceedings_reviews_due_2027 }}) will receive a warning from the TPC and be given
 the emergency review period to complete their review.
 If they still do not complete their review, the TPC will desk-reject their paper at the
 end of the emergency review period.
@@ -108,7 +108,7 @@ their information, and we will assign them.
 
 ### Discussion
 
-{{ proceedings_discussion_period_2026 }}
+{{ proceedings_discussion_period_2027 }}
 
 After the authors submit their Author Response, there is one week for discussion between
 authors and reviewers assigned to each paper.
@@ -126,7 +126,7 @@ meta-review.
 
 ### Meta-Review
 
-{{ proceedings_meta_review_period_2026 }}
+{{ proceedings_meta_review_period_2027 }}
 
 Write a meta-review for each submission that summarizes the reviews and discussion, and
 provides your decision recommendation ("Accept as Proceedings" or "Invite to Extended
@@ -195,37 +195,37 @@ weakens the central claim of the submission"). The latter is much preferred, bot
 make the meta-review more verifiable by your SAC and the TPC, and more actionable for
 the authors for the next revision.
 
-{% include "2026/meta-review-examples.md" %}
+{% include "2027/meta-review-examples.md" %}
 
 ## Policies
 
 ### Availability
 
-{% include "2026/policies/availability.md" %}
+{% include "2027/policies/availability.md" %}
 
 If you are unable to meet these expectations, please let your SAC know of your
 constraints by posting an **Official Comment**.
 
 ### Kindness
 
-{% include "2026/policies/kindness.md" %}
+{% include "2027/policies/kindness.md" %}
 
 ### Conflicts of interest
 
-{% include "2026/policies/conflict-of-interest.md" %}
+{% include "2027/policies/conflict-of-interest.md" %}
 
 If you recognize a potential conflict of interest, please let your SAC or the TPC know
 straight away (see [Adjustment](#adjustment)).
 
-{% include "2026/reviewers/common-policies.md" %}
+{% include "2027/reviewers/common-policies.md" %}
 
-{% include "2026/policies/confidentiality-ac-addendum.md" %}
+{% include "2027/policies/confidentiality-ac-addendum.md" %}
 
 ### Flexibility
 
-{% include "2026/policies/flexibility.md" %}
+{% include "2027/policies/flexibility.md" %}
 
-{% include "2026/contact-info.md" %}
+{% include "2027/contact-info.md" %}
 
 If you have specific questions related to the handling of a particular paper, please
 leave a comment on the OpenReview forum for that paper with the readers set to the

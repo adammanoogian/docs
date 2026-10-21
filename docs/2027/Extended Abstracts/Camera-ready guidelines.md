@@ -1,6 +1,6 @@
 # Camera-ready guidelines
 
-{% include "2026/glossary-definitions.md" %}
+{% include "2027/glossary-definitions.md" %}
 
 We look forward to seeing your work presented in New York City!
 This page describes how to prepare and submit the camera-ready version of your Extended
@@ -10,8 +10,8 @@ Abstract.
 
 | Period | Author responsibilities | Dates |
 | :--- | :--- | :--- |
-| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ ea_camera_ready_period_2026 }}</span> |
-| [Talk selections](#talk-selections) |  | {{ talk_selections_2026 }} |
+| <span class="deadline">[Camera-ready preparation](#camera-ready-preparation)</span> | <span class="deadline">Authors prepare and submit camera-ready copies.</span> | <span class="deadline">{{ ea_camera_ready_period_2027 }}</span> |
+| [Talk selections](#talk-selections) |  | {{ talk_selections_2027 }} |
 
 ### Camera-ready preparation
 
@@ -29,28 +29,28 @@ deviation during the submission or review process.
 Your PDF should use one of the official CCN 2026 templates and appear exactly like the
 PDF examples compiled from those templates.
 
-{% include "2026/submissions/templates-ea.md" %}
+{% include "2027/submissions/templates-ea.md" %}
 
-{% include "2026/camera-ready/docs-template-deprecated.md" %}
+{% include "2027/camera-ready/docs-template-deprecated.md" %}
 
-{% include "2026/camera-ready/latex-template-update.md" %}
+{% include "2027/camera-ready/latex-template-update.md" %}
 
-{% include "2026/submissions/template-issues.md" %}
+{% include "2027/submissions/template-issues.md" %}
 
 ##### Deanonymize your manuscript
 
-{% include "2026/camera-ready/deanonymize-ea.md" %}
+{% include "2027/camera-ready/deanonymize-ea.md" %}
 
 The main text of the Extended Abstract, including the title-author block and the short
 abstract, must still adhere to the 2-page limit.
 
 ##### No changes to authorship
 
-{% include "2026/camera-ready/author-list-match.md" %}
+{% include "2027/camera-ready/author-list-match.md" %}
 
 ##### Add acknowledgments and disclosure
 
-{% include "2026/camera-ready/acknowledgments.md" %}
+{% include "2027/camera-ready/acknowledgments.md" %}
 
 Ensure your disclosure of any use of AI tools, including large language models, is up to
 date. Unlike acknowledgments, disclosure of AI usage is required in both the submitted
@@ -73,16 +73,16 @@ when compiling the manuscript to 2 pages.
 
 ##### No significant revisions
 
-{% include "2026/camera-ready/significant-revisions.md" %}
+{% include "2027/camera-ready/significant-revisions.md" %}
 
 If you wish to make a significant revision, you will need to withdraw your Extended
 Abstract from CCN 2026 and resubmit to CCN 2027.
 
 #### Submission
 
-{% include "2026/camera-ready/howto-submit.md" %}
+{% include "2027/camera-ready/howto-submit.md" %}
 
-Camera-ready copies are due by {{ camera_ready_deadline_2026 }}, 11:59 PM Anywhere on
+Camera-ready copies are due by {{ camera_ready_deadline_2027 }}, 11:59 PM Anywhere on
 Earth (AoE). The camera-ready copy is the final version of your Extended Abstract, and
 must adhere to the requirements described above.
 If you need to make a revision past this deadline, you will need to withdraw your
@@ -91,7 +91,7 @@ adhering to the above requirements will be withdrawn by the TPC after the deadli
 
 ### Talk selections
 
-{% include "2026/camera-ready/talk-selections.md" %}
+{% include "2027/camera-ready/talk-selections.md" %}
 
 For details on how talks are chosen, see the
 [contributed talk selection process](../Contributed%20Talks/Talk%20selection%20process.md).
@@ -101,9 +101,9 @@ poster at CCN 2026.
 
 ## Presenter policy
 
-{% include "2026/policies/presenter-policy.md" %}
+{% include "2027/policies/presenter-policy.md" %}
 
 If you must change the Presenter of your submission, please
 [contact the TPC](#contact-info) as soon as possible.
 
-{% include "2026/contact-info.md" %}
+{% include "2027/contact-info.md" %}
