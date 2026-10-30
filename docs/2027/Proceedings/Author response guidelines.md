@@ -25,13 +25,13 @@ relevant to authors of submissions.
 | Decision[^decisions] |  | {{ proceedings_final_decisions_period_2027 }} |
 
 [^decisions]: Proceedings decisions are related to but not exactly the same as
-    presentation format (poster) decisions at CCN 2026: **accepted** Proceedings papers
+    presentation format (poster) decisions at CCN 2027: **accepted** Proceedings papers
     **will** receive a poster; Proceedings submissions that are not accepted will go
     through another decision stage for the Extended Abstract track; all **accepted**
     Extended Abstracts **will** receive a poster, and we expect to accept all on-topic
     Extended Abstracts up to our venue capacity.
     For more details, see the
-    [call for papers](https://2026.ccneuro.org/call-for-papers/).
+    [call for papers](https://2027.ccneuro.org/call-for-papers/).
 
 ### Response
 

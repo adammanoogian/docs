@@ -10,10 +10,10 @@ As a Reviewer, you carry the important responsibility of evaluating submissions,
 identifying work that should be highlighted at CCN as a Contributed Talk, as well as
 giving the feedback to others' work that is vital to the scientific process.
 
-Each submission to the CCN 2026 Extended Abstracts will receive at least 3 high-quality
+Each submission to the CCN 2027 Extended Abstracts will receive at least 3 high-quality
 reviews from Reviewers like yourself.
 After the review period concludes, there will be no discussion period; instead, the
-reviews will be forwarded to the CCN 2026 TPC to make talk selections.
+reviews will be forwarded to the CCN 2027 TPC to make talk selections.
 Your communications with the Technical Programme Committee (TPC) will take place via
 OpenReview.
 

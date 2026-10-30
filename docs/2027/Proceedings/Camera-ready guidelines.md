@@ -2,7 +2,7 @@
 
 {% include "2027/glossary-definitions.md" %}
 
-Congratulations on the acceptance of your paper in the Proceedings of CCN 2026! This
+Congratulations on the acceptance of your paper in the Proceedings of CCN 2027! This
 page describes how to prepare and submit the camera-ready version of your manuscript.
 
 ## Timeline
@@ -26,7 +26,7 @@ When preparing your camera-ready PDF copy, please ensure the following.
 
 Fix any formatting deviations, especially if the TPC has notified you of such a
 deviation during the submission or review process.
-Your PDF should use one of the official CCN 2026 templates and appear exactly like the
+Your PDF should use one of the official CCN 2027 templates and appear exactly like the
 PDF examples compiled from those templates, to ensure visual conformity among all
 Proceedings papers.
 
@@ -68,7 +68,7 @@ You must make the revisions that were approved during the review process.
 {% include "2027/camera-ready/significant-revisions.md" %}
 
 This is because the reviews and discussion based on the submitted version may no longer
-be a holistic evaluation of the work, and the CCN 2026 review processes have closed.
+be a holistic evaluation of the work, and the CCN 2027 review processes have closed.
 
 ##### Page limit
 
@@ -84,7 +84,7 @@ Camera-ready copies are due by {{ camera_ready_deadline_2027 }}, 11:59 PM Anywhe
 Earth (AoE). The camera-ready copy is the final version of your Proceedings paper, and
 must adhere to the requirements described above.
 If you need to make a revision past this deadline, you will need to withdraw your
-Proceedings paper from CCN 2026 and resubmit to CCN 2027. Proceedings papers not
+Proceedings paper from CCN 2027 and resubmit to CCN 2028. Proceedings papers not
 adhering to the above requirements will be withdrawn by the TPC after the deadline.
 
 Proceedings papers and their reviews, meta-reviews, and discussions will be made public
@@ -98,7 +98,7 @@ For details on how talks are chosen, see the
 [contributed talk selection process](../Contributed%20Talks/Talk%20selection%20process.md).
 
 Regardless of its selection as a talk, your Proceedings paper must be presented as a
-poster at CCN 2026.
+poster at CCN 2027.
 
 ## Presenter policy
 

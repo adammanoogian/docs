@@ -12,7 +12,7 @@ As a Reviewer, you carry the important responsibility of evaluating submissions,
 identifying work that should be included and highlighted at CCN as well as giving
 feedback to others' work that is vital to the scientific process.
 
-Each submission to the CCN 2026 Proceedings will receive at least 3 high-quality reviews
+Each submission to the CCN 2027 Proceedings will receive at least 3 high-quality reviews
 from Reviewers like yourself.
 After the review period concludes, the Authors can respond to the reviews and sustain
 discussion with the Reviewers.

@@ -2,7 +2,7 @@
 
 {% include "2027/glossary-definitions.md" %}
 
-![CCN 2026 Submissions Flowchart](../../2025/assets/ccn25_submissions.png)
+![CCN 2027 Submissions Flowchart](../../2025/assets/ccn25_submissions.png)
 
 ## Submission process
 

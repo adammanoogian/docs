@@ -102,7 +102,7 @@ not be considered for a Contributed Talk.
 
 {% include "2027/faq/preprints.md" %}
 
-### I and my co-authors can no longer attend CCN 2026. How can I withdraw my poster?
+### I and my co-authors can no longer attend CCN 2027. How can I withdraw my poster?
 
 Please use the "Withdrawal" function on the OpenReview page for your submission.
 
@@ -141,7 +141,7 @@ Instructions for this will be provided at a later stage.
 
 ### Can I make multiple Extended Abstract submissions?
 
-CCN 2026 maintains the historical policy that a given presenter can present only a
+CCN 2027 maintains the historical policy that a given presenter can present only a
 single contribution at CCN. As such, you can make only one submission as the "Presenter"
 (the presenting author as identified on OpenReview) to the Extended Abstracts track.
 We will desk-reject submissions in violation of this requirement between

@@ -26,7 +26,7 @@ When preparing your camera-ready PDF copy, please ensure the following.
 
 Fix any formatting deviations, especially if the TPC has notified you of such a
 deviation during the submission or review process.
-Your PDF should use one of the official CCN 2026 templates and appear exactly like the
+Your PDF should use one of the official CCN 2027 templates and appear exactly like the
 PDF examples compiled from those templates.
 
 {% include "2027/submissions/templates-ea.md" %}
@@ -76,7 +76,7 @@ when compiling the manuscript to 2 pages.
 {% include "2027/camera-ready/significant-revisions.md" %}
 
 If you wish to make a significant revision, you will need to withdraw your Extended
-Abstract from CCN 2026 and resubmit to CCN 2027.
+Abstract from CCN 2027 and resubmit to CCN 2028.
 
 #### Submission
 
@@ -86,7 +86,7 @@ Camera-ready copies are due by {{ camera_ready_deadline_2027 }}, 11:59 PM Anywhe
 Earth (AoE). The camera-ready copy is the final version of your Extended Abstract, and
 must adhere to the requirements described above.
 If you need to make a revision past this deadline, you will need to withdraw your
-Extended Abstract from CCN 2026 and resubmit to CCN 2027. Extended Abstracts not
+Extended Abstract from CCN 2027 and resubmit to CCN 2028. Extended Abstracts not
 adhering to the above requirements will be withdrawn by the TPC after the deadline.
 
 ### Talk selections
@@ -97,7 +97,7 @@ For details on how talks are chosen, see the
 [contributed talk selection process](../Contributed%20Talks/Talk%20selection%20process.md).
 
 Regardless of its selection as a talk, your Extended Abstract must be presented as a
-poster at CCN 2026.
+poster at CCN 2027.
 
 ## Presenter policy
 
